@@ -1,0 +1,53 @@
+10:55:42.588 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+10:55:44.179 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+10:55:44.184 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+10:55:44.210 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+10:56:04.383 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest.........
+10:56:06.122 [main] INFO  testCases.TC002_LoginTest - finished TC002_LoginTest........
+11:00:17.548 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:00:17.691 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:00:18.259 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:00:18.265 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:00:23.624 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest.........
+11:00:25.205 [main] INFO  testCases.TC002_LoginTest - finished TC002_LoginTest........
+11:04:10.678 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:04:10.819 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:04:11.387 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:04:11.390 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:04:16.457 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest.........
+11:04:18.306 [main] INFO  testCases.TC002_LoginTest - finished TC002_LoginTest........
+11:11:14.676 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:11:14.815 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:11:15.386 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:11:15.390 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:11:15.816 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+11:13:41.141 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:13:41.305 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:13:42.062 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:13:42.070 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:13:42.786 [main] ERROR testCases.TC001_AccountRegistrationTest - Test Failed
+11:17:51.195 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:17:51.346 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:17:51.958 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:17:51.961 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:17:57.215 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest.........
+11:17:58.959 [main] INFO  testCases.TC002_LoginTest - finished TC002_LoginTest........
+11:20:41.656 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:20:41.774 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:20:42.469 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:20:42.473 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:20:47.700 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest.........
+11:20:49.198 [main] INFO  testCases.TC002_LoginTest - finished TC002_LoginTest........
+11:30:05.003 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:30:05.116 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:30:05.715 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:30:05.717 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:30:12.083 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest.........
+11:30:13.964 [main] INFO  testCases.TC002_LoginTest - finished TC002_LoginTest........
+11:31:16.763 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
+11:31:16.982 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on MuAccount link
+11:31:17.624 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Register link
+11:31:17.628 [main] INFO  testCases.TC001_AccountRegistrationTest - providing customer details
+11:31:22.617 [main] INFO  testCases.TC002_LoginTest - starting TC002_LoginTest.........
+11:31:24.173 [main] INFO  testCases.TC002_LoginTest - finished TC002_LoginTest........
+11:33:23.114 [main] INFO  testCases.TC001_AccountRegistrationTest - ********* TC001_AccountRegistrationTest
